@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @manucardona
-- 👀 I’m interested in coding for Development Economics.
-- 🌱 I’m currently learning Machine Learning fundamentals in R and Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m José Cardona Arias
+- 👀 I’m pursing a Master's in Computational Analysis and Public Policy at UChicago
 
 <!---
 manucardona/manucardona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

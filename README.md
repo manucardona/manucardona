@@ -14,7 +14,7 @@
 ---
 
 ## 💡 Projects
--**❄️ Chi-ffordable**
+- **❄️ Chi-ffordable**
   An interactive dashboard that allows users to find affordable housing in Chicago.
 
 - **🌍 Poverty Mapping with Satellite Imagery**  

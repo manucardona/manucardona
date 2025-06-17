@@ -40,7 +40,7 @@
 
 ## 📫 Let’s Connect!
 
-- 🌐 [https://jmcarias.netlify.app/](https://jmcarias.netlify.app/)  
+- 🌐 [My Website](https://jmcarias.netlify.app/)  
 - 💼 [LinkedIn](www.linkedin.com/in/jmcarias)  
 - 📨 Email: jmcarias@uchicago.edu
 - 📨 Personal email: mcardonaarias96@gmail.com

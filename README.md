@@ -41,7 +41,7 @@
 ## 📫 Let’s Connect!
 
 - 🌐 [My Website](https://jmcarias.netlify.app/)  
-- 💼 [LinkedIn](www.linkedin.com/in/jmcarias)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jmcarias/)  
 - 📨 Email: jmcarias@uchicago.edu
 - 📨 Personal email: mcardonaarias96@gmail.com
 - 🗃️ [Explore my repos below 👇](#)
